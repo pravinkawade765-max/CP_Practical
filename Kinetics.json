@@ -1,0 +1,32 @@
+[
+    {
+        "Time_min":0,
+        "Run_mol_L_low_loading":1.2,
+        "Run_mol_L_high_loading":1.2
+    },
+    {
+        "Time_min":10,
+        "Run_mol_L_low_loading":0.98,
+        "Run_mol_L_high_loading":0.8
+    },
+    {
+        "Time_min":20,
+        "Run_mol_L_low_loading":0.8,
+        "Run_mol_L_high_loading":0.54
+    },
+    {
+        "Time_min":30,
+        "Run_mol_L_low_loading":0.66,
+        "Run_mol_L_high_loading":0.36
+    },
+    {
+        "Time_min":40,
+        "Run_mol_L_low_loading":0.54,
+        "Run_mol_L_high_loading":0.24
+    },
+    {
+        "Time_min":50,
+        "Run_mol_L_low_loading":0.44,
+        "Run_mol_L_high_loading":0.16
+    }
+]
